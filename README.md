@@ -1,2 +1,2 @@
-# 05-Third-Party-APIs
-Work Day Scheduler
+# 04-Web-APIs
+Hello! Please try my NFL quiz made via HTML, CSS, and Javascript! Think you know everything about the NFL? Give it a try!
