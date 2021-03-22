@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+.right {
+    float:right;
+}
+
+.left{
+    float:left;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#quiz {
+    display: flex;
+    justify-content: center;
+}
+
+#quizBody {
+    text-align: center;
+}
+
+body {
+    font-family:'Pangolin', cursive;
+    background-color: violet;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+button {
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    font-family: 'Anton', 'sans-serif';
+}
+
+button:hover {
+    transition-duration: 2s;
+    background-color: lightgreen;
+    color: black;
+}
